@@ -47,7 +47,7 @@ public class MySort {
     }
 
     private static void usage(){
-        System.out.println("MySort CS 553 Cloud Computing Spring 2020");
+        System.out.println("Hawksort");
         System.out.println("*******************************************");
         System.out.println("*                                         *");
         System.out.println("* Before you run it, make sure to set JVM *");
